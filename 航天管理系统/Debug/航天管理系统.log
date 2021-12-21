@@ -1,0 +1,11 @@
+﻿  AriportRoutes.cpp
+  main.cpp
+  Pananger.cpp
+  tool.cpp
+F:\桌面\航天管理系统c++ - 副本 - 副本 宝贵版本\航天管理系统\tool.cpp(451,20): warning C4101: “head1”: 未引用的局部变量
+F:\桌面\航天管理系统c++ - 副本 - 副本 宝贵版本\航天管理系统\tool.cpp(451,27): warning C4101: “temp”: 未引用的局部变量
+  正在运行 C/C++ 代码分析...
+  正在生成代码...
+  航天管理系统.vcxproj -> F:\桌面\航天管理系统c++ - 副本 - 副本 宝贵版本\航天管理系统\Debug\航天管理系统.exe
+F:\桌面\航天管理系统c++ - 副本 - 副本 宝贵版本\航天管理系统\AriportRoutes.cpp(2): warning C26495: 未初始化变量 AriportRoutes::pangernumber。始终初始化成员变量(type.6)。
+F:\桌面\航天管理系统c++ - 副本 - 副本 宝贵版本\航天管理系统\Pananger.cpp(2): warning C26495: 未初始化变量 Pananger::titlenumber。始终初始化成员变量(type.6)。

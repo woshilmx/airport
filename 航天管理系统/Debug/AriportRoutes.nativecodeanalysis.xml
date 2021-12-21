@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>F:\桌面\航天管理系统c++ - 副本 - 副本 宝贵版本\航天管理系统\</FILEPATH>
+      <FILENAME>AriportRoutes.cpp</FILENAME>
+      <LINE>2</LINE>
+      <COLUMN>15</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>未初始化变量 AriportRoutes::pangernumber。始终初始化成员变量(type.6)。</DESCRIPTION>
+    <FUNCTION>AriportRoutes::{ctor}</FUNCTION>
+    <DECORATED>??0AriportRoutes@@QAE@XZ</DECORATED>
+    <FUNCLINE>2</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>AriportRoutes::pangernumber</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>F:\桌面\航天管理系统c++ - 副本 - 副本 宝贵版本\航天管理系统\</FILEPATH>
+      <FILENAME>AriportRoutes.cpp</FILENAME>
+      <LINE>2</LINE>
+      <COLUMN>15</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>未初始化变量 AriportRoutes::remain。始终初始化成员变量(type.6)。</DESCRIPTION>
+    <FUNCTION>AriportRoutes::{ctor}</FUNCTION>
+    <DECORATED>??0AriportRoutes@@QAE@XZ</DECORATED>
+    <FUNCLINE>2</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>AriportRoutes::remain</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

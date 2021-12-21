@@ -1,0 +1,6 @@
+E:\c++项目\航天管理系统c++\航天管理系统\Debug\航天管理系统.exe
+E:\c++项目\航天管理系统c++ - 副本\航天管理系统\Debug\航天管理系统.exe
+E:\c++项目\航天管理系统c++ - 副本 - 副本 宝贵版本\航天管理系统\Debug\航天管理系统.exe
+F:\桌面\航天管理系统c++ - 副本 - 副本 宝贵版本\航天管理系统\Debug\航天管理系统.exe
+F:\桌面\航天管理系统c++ - 副本 - 副本 宝贵版本\航天管理系统\Debug\航天管理系统.exe.lastcodeanalysissucceeded
+F:\桌面\航天管理系统c++ - 副本 - 副本 宝贵版本\航天管理系统\Debug\NativeCodeAnalysis.read.1.tlog
